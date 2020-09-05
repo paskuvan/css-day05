@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@700&display=swap');
+
+.navbar {
+    background-color: #ebf5ff !important;
+}
+
+.font-regular {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.font-bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.title-size {
+    font-size: 12vh;
+}
+
+.subtitle-size {
+    font-size: 18px;
+}
