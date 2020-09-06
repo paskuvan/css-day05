@@ -9,7 +9,35 @@
     font-weight: 700;
 }
 
+.font-size {
+    font-size: 55px;
+}
+
+.color-sub {
+    color: rgb(145, 141, 141);
+}
+
+.margin-sub {
+    margin: 20px 0;
+}
+
 .font-regular {
     font-family: 'Open Sans', sans-serif;
 }
 
+.color-gradient {
+    background: #1FA2FF;
+    background: -moz-linear-gradient(left,  #1FA2FF 0%, #12D8FA 100%); 
+    background: -webkit-linear-gradient(left,  #1FA2FF 0%,#12D8FA 100%); 
+    background: linear-gradient(to right,  #1FA2FF 0%,#12D8FA 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1FA2FF', endColorstr='#12D8FA',GradientType=1 ); 
+}
+
+.btn-default {
+    border-radius: 20px;
+    color: white;
+}
+
+.btn-default:hover {
+    color: white;
+}
