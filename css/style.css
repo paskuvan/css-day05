@@ -1,15 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@700&display=swap');
 
-.navbar {
-    background-color: #ebf5ff !important;
-}
-
-.gray {
-    color: #8a949f;
-}
-.font-regular {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
+.img-size {
+    width: 100%;
 }
 
 .font-bold {
@@ -17,36 +9,7 @@
     font-weight: 700;
 }
 
-.title-size {
-    font-size: 12vh;
+.font-regular {
+    font-family: 'Open Sans', sans-serif;
 }
-
-.subtitle-size {
-    font-size: 18px;
-}
-
-.box-shadow {
-    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2),0 6px 10px 0 rgba(0,0,0,0.3);
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2),0 6px 10px 0 rgba(0,0,0,0.3);
-    background-color: #ffffff;
-}
-
-.box-orange {
-    background-color: white;
-    border-top: 5px solid #ff7c3f;
-    padding: 30px;
-    position: relative;
-    top: 20vh;
-    left: 25vh;
-}
-
-.box-green {
-    background-color: white;
-    border-top: 5px solid #2ebf6d;
-    padding: 30px;
-    position: relative;
-    left: 30vh;
-    top: 4rem;
-}
-
 
