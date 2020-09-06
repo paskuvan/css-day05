@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@700&display=swap');
 
+.title-color {
+    color: #b93c6f;
+}
+
 .img-size {
     width: 100%;
 }
@@ -40,4 +44,24 @@
 
 .btn-default:hover {
     color: white;
+}
+
+@media (max-width: 768px) {
+    .font-size {
+        text-align: center;
+        padding: 20px 0 0 0;
+    }
+
+    .color-sub {
+        text-align: center;
+    }
+
+    .button {
+    position: relative;
+    left: 14vh;
+    }
+
+    .img-size {
+        width: 75%;
+    }
 }
